@@ -1,6 +1,9 @@
 # KrkrzExtract
 The next generation of KrkrExtract
 
+# Warning
+* Beta version, unstable now.  
+
 # Why 
 * Universal unpacker for krkrz
 * Make KrkrExtract more simple
@@ -9,5 +12,5 @@ The next generation of KrkrExtract
 KrkrzExtract only supports krkrz engine.
 
 # Build
-VS2017 + WIN10 SDK(RS3 or higher)
+VS2013
 
